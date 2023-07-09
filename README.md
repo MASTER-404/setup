@@ -1,7 +1,5 @@
 # setup
 
-apt install python
-
 pkg update
 
 pkg upgrade
@@ -23,3 +21,5 @@ git clone https://github.com/MASTER-404/setup
 cd setup
 
 python set-up.py
+
+🌷 Enjoy
